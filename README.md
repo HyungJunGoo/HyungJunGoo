@@ -3,4 +3,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJunGoo)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={9h0jun1115})](https://solved.ac/{9h0jun1115)
+[![](http://mazassumnida.wtf/api/v2/generate_badge?boj=9h0jun1115)](https://solved.ac/9h0jun1115)
