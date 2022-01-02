@@ -4,3 +4,5 @@
 
 
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=9h0jun1115)](https://solved.ac/9h0jun1115)
+
+Linkedin url : (https://www.linkedin.com/in/hyungjun1115/)
