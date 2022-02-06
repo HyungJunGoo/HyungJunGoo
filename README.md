@@ -6,3 +6,5 @@
 [![](http://mazassumnida.wtf/api/v2/generate_badge?boj=9h0jun1115)](https://solved.ac/9h0jun1115)
 
 Linkedin url : (https://www.linkedin.com/in/hyungjun1115/)
+
+Weekly Study Group Notion Page : [Notion page](https://aerial-terrier-8f7.notion.site/f5edaf7458cf4c3eaa20edd2f5f279f3)
