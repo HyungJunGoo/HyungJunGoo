@@ -7,4 +7,4 @@
 
 Linkedin url : (https://www.linkedin.com/in/hyungjun1115/)
 
-Weekly Study Group Notion Page : [Notion page](https://aerial-terrier-8f7.notion.site/f5edaf7458cf4c3eaa20edd2f5f279f3)
+
